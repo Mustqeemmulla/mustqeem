@@ -1,0 +1,24 @@
+h1{
+    color: black;
+    padding: 2%;
+    text-decoration: double;
+}
+p{
+    border: solid black,2px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+button{
+    background-color:royalblue;
+    border-radius: 5px;
+}
+body{
+    background-color: aquamarine;
+}
+h3{
+    color: red;
+}
